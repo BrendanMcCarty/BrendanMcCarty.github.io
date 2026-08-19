@@ -1,2 +1,2 @@
-# brendanmccarty.github.io
+# BrendanMcCarty.github.io
 Website Potrfolio
